@@ -67,6 +67,9 @@ Start the server
 
 ![App Screenshot](https://github.com/StoicSim/screenshots/blob/main/Screenshot%20(318).png)
 
+![App Screenshot](https://github.com/StoicSim/screenshots/blob/main/Screenshot%20(326).png)
+
+
 ![App Screenshot](https://github.com/StoicSim/screenshots/blob/main/Screenshot%20(321).png)
 
 ![App Screenshot](https://github.com/StoicSim/screenshots/blob/main/Screenshot%20(322).png)
@@ -77,7 +80,6 @@ Start the server
 
 ![App Screenshot](https://github.com/StoicSim/screenshots/blob/main/Screenshot%20(325).png)
 
-![App Screenshot](https://github.com/StoicSim/screenshots/blob/main/Screenshot%20(326).png)
 
 
 
